@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 Projectes col·laboratius:
 - https://github.com/aaroncano2006/metari
+- https://github.com/jselga/616-material-projecte
